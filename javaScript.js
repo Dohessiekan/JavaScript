@@ -1,0 +1,1 @@
+alert("ceci est egalement affiche en JavaScript");
